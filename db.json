@@ -1,3 +1,12 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "asd",
+      "empresa": "Zitelli",
+      "email": "zite@zite.com",
+      "telefono": "5493764103154",
+      "notas": "asd",
+      "id": 1
+    }
+  ]
 }
